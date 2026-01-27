@@ -84,3 +84,4 @@ p = alt.Chart(df).mark_bar().encode(
     width=alt.Step(80)
 )
 st.write(p)
+st.balloons()
